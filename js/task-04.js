@@ -30,3 +30,10 @@ console.log(account.balance); // 19000
 
 console.log(account.showOrders());
 // ['order-1', 'order-2', 'order-3', 'order-4']
+
+
+
+// this в методах объекта
+// Расставь отсутствующие this в методах объекта account.
+
+// В комментариях показаны операции с объектом и ожидаемые результаты.
